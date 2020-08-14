@@ -1,0 +1,15 @@
+.Burger{
+    width: 100% !important;
+    background-image: url(../../assest/10.jpg);
+   
+    height: 680px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background-position-x: right;
+}
+.img{
+    
+
+}
+
